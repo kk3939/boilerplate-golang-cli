@@ -1,3 +1,3 @@
 module github.com/kk3939/boilerplate-golang-cli
 
-go 1.19
+go 1.20
